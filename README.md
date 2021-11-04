@@ -26,3 +26,11 @@ https://github.com/gerenciapedidos/Arquitetura-de-Software/tree/master/solid
 ### Deploy Strategies
 
 //TODO
+
+### Pipelines de CI/CD
+
+//TODO
+
+### Automation of Tests
+
+//TODO
