@@ -1,6 +1,6 @@
 # Arquitetura-de-Software em 2021
 
-Conhecimento em Arquiteturas de Sofware
+Conhecimento em Arquiteturas de Software
 
 
 ### Design Patterns
