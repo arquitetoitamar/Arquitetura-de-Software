@@ -2,6 +2,14 @@
 
 Conhecimento em Arquiteturas de Software
 
+### Java
+
+### Videos interessantes - atualizado 11/11/2021
+
+From Java 11 to Java 17 (and beyond) | DevNation Day LATAM
+
+https://www.youtube.com/watch?v=Awb9seUTQ6Y
+
 
 ### Design Patterns
 
